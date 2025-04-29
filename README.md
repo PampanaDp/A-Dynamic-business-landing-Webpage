@@ -49,7 +49,7 @@ This project is a static website representing a company's digital profile. It wa
 
 ✅ User Interaction – Smooth scrolling, active link highlights, interactive form
 
-✅ SEO-Friendly HTML Tags – Semantic structure (like header, sections, footer..)
+✅ SEO-Friendly HTML Tags – Semantic structure (like header, sections, footer, input tags..)
 
 ✅ Cross-Browser Compatibility – Works across Chrome, Firefox, Edge, etc..
 
