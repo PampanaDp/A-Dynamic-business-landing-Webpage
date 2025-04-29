@@ -51,7 +51,7 @@ This project is a static website representing a company's digital profile. It wa
 
 ✅ SEO-Friendly HTML Tags – Semantic structure (like <header>, <section>, <footer>)
 
-✅ Cross-Browser Compatibility – Works across Chrome, Firefox, Edge, etc.
+✅ Cross-Browser Compatibility – Works across Chrome, Firefox, Edge...
 
 
 ## 📌 Conclusion
