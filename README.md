@@ -58,8 +58,6 @@ This project is a static website representing a company's digital profile. It wa
 
   This business profile website project showcases a clean, responsive, and professional-looking front-end site. It helps reinforce foundational web development concepts and prepares for building portfolio or client-ready websites.
 
-  👉 [View the Live Project] [[ (http://127.0.0.1:5500/Index.html) ]]
-
 
 
 
